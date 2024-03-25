@@ -13,6 +13,6 @@
   },
   "scripts": {
     "dev": "parcel index.html",
-    "build": "parcel build index.html --public-url /roulette/"
+    "build": "parcel build index.html"
   }
 }
